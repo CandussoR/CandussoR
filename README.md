@@ -1,6 +1,6 @@
 ### Hi there, I'm Romain 👋</h2>
 
-### A web & mobile dev
+### A web & mobile dev based in Annecy (France)
 
 <!--
 **CandussoR/CandussoR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
