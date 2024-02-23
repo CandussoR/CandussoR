@@ -1,6 +1,6 @@
 ### Hi there, I'm Romain 👋</h2>
 
-### A former translator becoming a passionnate developer
+### A web & mobile dev
 
 <!--
 **CandussoR/CandussoR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <br>
 
-- 🔭 I’m currently working on the [Podcatcher](https://github.com/CandussoR/podcatcher) and the [TimeTracker](https://github.com/CandussoR/timer_sans_classe)
+- 🔭 I’m currently working on the [TimeTracker](https://github.com/CandussoR/timer_sans_classe)
 - 🌱 I’m currently learning **Laravel** and **Vuejs**
 - 📫 How to reach me: romain.candusso@gmail.com 
 
