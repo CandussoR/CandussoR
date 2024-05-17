@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - **ongoing** : Timetracker, with statistics for a better hold on everyday activites.
   - [Back](https://github.com/CandussoR/timetracker) : TUI and web API (Python, Flask, Sqlite) ;
   - [Front](https://github.com/CandussoR/timetracker_front) : web Front (VueJs) ;
- - **ongoing** : Website Blocker : custom chrome extension (JS, CSS and HTML) ;
+ - **ongoing** : [Website Blocker](https://github.com/CandussoR/siteBlocker) : custom chrome extension (JS, CSS and HTML) ;
 - 2022-2023 : [Hôtel Arth](https://github.com/CDA-REM) : fictional hotel website with a dashboard (Laravel, VueJS) ;
 - 2022 : [Podcatcher](https://github.com/CandussoR/podcatcher) Learning project to listen and download podcasts (VueJs, Firebase) ;
 - 2022 : [Metadata Transfer](https://github.com/CandussoR/metadata_transfer): Python scripts to insert ebooks metadata from Calibre into a MySql database and to automatize the moving of files on hard-drive.
