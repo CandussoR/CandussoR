@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <br>
 
-- 🔭 I’m currently working on the [TimeTracker](https://github.com/CandussoR/timer_sans_classe)
+- 🔭 I’m currently working on the **[TimeTracker](https://github.com/CandussoR/timer_sans_classe)** and the **[SiteBlocker](https://github.com/CandussoR/siteBlocker)**
 - 📫 How to reach me: romain.candusso@gmail.com 
 
 <br>
