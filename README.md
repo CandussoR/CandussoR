@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 <br>
 
 # Projects 
+- **ongoing** : [MyLibrary](https//github.com/CandussoR/myLibrary) : Python (server made from socket), VueJs ;
 - **ongoing** : Timetracker, with statistics for a better hold on everyday activites.
   - [Back](https://github.com/CandussoR/timetracker) : TUI and web API (Python, Flask, Sqlite) ;
   - [Front](https://github.com/CandussoR/timetracker_front) : web Front (VueJs) ;
