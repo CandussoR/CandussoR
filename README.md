@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 <br>
 
-- 🔭 I’m currently working on the **[TimeTracker](https://github.com/CandussoR/timer_sans_classe)**, the **[SiteBlocker](https://github.com/CandussoR/siteBlocker)** and **[Bookworm](https//github.com/CandussoR/myLibrary)**
+- 🔭 I’m currently working on the **[TimeTracker](https://github.com/CandussoR/timer_sans_classe)**, the **[SiteBlocker](https://github.com/CandussoR/siteBlocker)** and **[Bookworm](https://github.com/CandussoR/Bookworm)**
 - 📫 How to reach me: romain.candusso@gmail.com 
 
 <br>
 
 # Projects 
-- **ongoing** : [Bookworm](https//github.com/CandussoR/myLibrary) : Python (server made from socket), VueJs, Tailwind ;
+- **ongoing** : [Bookworm](https://github.com/CandussoR/Bookworm) : Python (server made from socket), VueJs, Tailwind ;
 - **ongoing** : Timetracker, with statistics for a better hold on everyday activites.
   - [Back](https://github.com/CandussoR/timetracker) : TUI and web API (Python, Flask, Sqlite) ;
   - [Front](https://github.com/CandussoR/timetracker_front) : web Front (VueJs), vanilla CSS. ;
